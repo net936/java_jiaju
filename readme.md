@@ -12,9 +12,7 @@
 演示地址：[https://jiaju.gitapp.cn](https://jiaju.gitapp.cn)
 
 
-## 源码下载
 
-https://github.com/geeeeeeeek/java_jiaju
 
 
 ## 主要功能
